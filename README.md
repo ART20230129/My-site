@@ -9,3 +9,5 @@
 Увечения: программирование
 
 ![profie](/image/picture.jpg)
+
+
